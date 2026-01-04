@@ -1,0 +1,34 @@
+TRX1000|25/12/2025 00:08:41|Top Up|System|user4|28129|Transfer ke user lain
+TRX1001|19/12/2025 13:16:29|Pembayaran|user15|Merchant|11701|Pembayaran Internet
+TRX1002|31/12/2025 13:46:52|Transfer|user8|user9|27143|Transfer ke user lain
+TRX1003|20/12/2025 23:21:47|Top Up|System|user1|20548|Pembayaran Listrik PLN
+TRX1004|08/12/2025 21:08:34|Pembayaran|user1|Merchant|17444|Pembayaran Pulsa Telkomsel
+TRX1005|10/12/2025 05:44:14|Top Up|System|user20|15882|Pembayaran Listrik PLN
+TRX1006|16/12/2025 08:59:57|Pembayaran|user2|Merchant|37227|Top up via Indomaret
+TRX1007|28/12/2025 04:30:02|Top Up|System|user12|30084|Pembayaran PDAM
+TRX1008|08/12/2025 18:45:00|Top Up|System|user10|33746|Pembayaran PDAM
+TRX1009|02/01/2026 23:06:57|Top Up|System|user19|18072|Top up via Indomaret
+TRX1010|09/12/2025 23:38:28|Top Up|System|user13|22365|Top up via Bank BCA
+TRX1011|24/12/2025 14:59:19|Top Up|System|user19|36202|Top up via Bank BCA
+TRX1012|04/01/2026 22:08:09|Pembayaran|user13|Merchant|15440|Pembayaran Internet
+TRX1013|17/12/2025 12:59:49|Pembayaran|user11|Merchant|33377|Pembayaran Pulsa Telkomsel
+TRX1014|10/12/2025 10:06:30|Transfer|user2|user2|10034|Transfer antar user
+TRX1015|19/12/2025 01:42:55|Transfer|user4|user16|19401|Pembayaran Listrik PLN
+TRX1016|12/12/2025 07:13:38|Top Up|System|user9|23455|Pembayaran Internet
+TRX1017|01/01/2026 20:18:50|Transfer|user9|user20|16165|Top up via Indomaret
+TRX1018|22/12/2025 04:41:51|Top Up|System|user5|23190|Transfer antar user
+TRX1019|23/12/2025 04:39:24|Top Up|System|user12|16370|Transfer antar user
+TRX1020|12/12/2025 00:35:19|Top Up|System|user15|12301|Top up via Bank BCA
+TRX1021|31/12/2025 03:06:55|Top Up|System|user6|34897|Pembayaran Internet
+TRX1022|02/01/2026 22:24:24|Transfer|user3|user14|32763|Pembayaran Listrik PLN
+TRX1023|04/01/2026 15:59:38|Transfer|user13|user20|32054|Top up via Indomaret
+TRX1024|21/12/2025 16:12:54|Top Up|System|user11|29947|Pembayaran Listrik PLN
+TRX1025|11/12/2025 09:54:59|Top Up|System|user9|27027|Top up via Bank BCA
+TRX1026|21/12/2025 13:06:46|Transfer|user9|user16|27175|Pembayaran Internet
+TRX1027|04/01/2026 22:36:20|Pembayaran|user2|Merchant|14359|Top up via Bank BCA
+TRX1028|19/12/2025 02:55:55|Top Up|System|user19|41570|Transfer antar user
+TRX1029|10/12/2025 06:40:27|Pembayaran|user1|Merchant|27904|Pembayaran Internet
+TRX1000|05/01/2026 00:47:43|Transfer|user1|user2|1000|Transfer antar pengguna
+TRX1000|05/01/2026 03:12:07|Top Up|System|Dirta|1e+006|Top up via transfer bank
+TRX1001|05/01/2026 03:12:33|Pembayaran|Dirta|Merchant|10000|Pembayaran Listrik PLN
+TRX1000|05/01/2026 05:29:52|Top Up|System|user1|10000|Top up via transfer bank
